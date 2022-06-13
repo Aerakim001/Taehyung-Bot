@@ -27,7 +27,7 @@ A Fully Modular and Efficient Bot <br>
 -   Object Oriented
 -   Written in [TypeScript](https://www.typescriptlang.org/)
 -   Self-Restoring Auth
--   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
+-   Built with [Baileys](https://github.com/Aerakim001/Taehyung-Bot/edit/main/README.md) (The Best
     WhatsApp Library Out There)
     
 ## 💪 Contribution
@@ -39,7 +39,7 @@ A Fully Modular and Efficient Bot <br>
 
 ## Contact me here :
 <p align="left">
-<a href="https://api.whatsapp.com/send?phone=919662713165&text=♨️+ʟɪꜰᴇ ꜱᴜᴄᴋꜱ™" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white" alt="WhatsApp"><br>
+<a href="https://api.whatsapp.com/send?phone=919778663250&text=♨️+ʟɪꜰᴇ ꜱᴜᴄᴋꜱ™" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white" alt="WhatsApp"><br>
     
 --------
 
